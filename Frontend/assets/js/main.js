@@ -136,7 +136,8 @@
             });
         });
 
-const functionApiUrl = "http://localhost/api/GetPortfolioCounter";
+const functionApiUrl = "http://localhost:7071/api/GetPortfolioCounter";
+
 // const functionApiUrl = "http://localhost:7071/api/GetPortfolioCounter";
 
 const getVisitCount = async () => {
